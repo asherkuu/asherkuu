@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://velog.io/@ashekruu"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://velog.io/@ashekruu"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
