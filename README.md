@@ -26,10 +26,10 @@
 
    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Styled Components-20232A?style=for-the-badge&logo=styled-components&logoColor=61DAFB" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Tailwind CSS-20232A?style=for-the-badge&logo=Tailwind CSS&logoColor=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />&nbsp;&nbsp;
   
-   <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=Amazon AWS&logoColor=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" />&nbsp;&nbsp;
  </p>
  
  <hr/>
