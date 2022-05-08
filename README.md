@@ -2,6 +2,7 @@
  <h3><samp><strong>Asher Kim</strong> 👋 </samp></h3>
 
  <samp>Software Engineer | Front-End Developer</samp>
+ <samp>I live on Seoul, South of Korea.</samp>
  
  <hr>
  
@@ -17,11 +18,6 @@
   </p>
  
  <hr/>
- 
- <h4>More Skills</h4>
- <p>
-   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp; 
- </p>
  
 </div>
 
