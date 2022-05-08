@@ -22,12 +22,12 @@
  <h4>More Skills ...</h4>
 
  <p>
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=Next.js&logoColor=61DAFB" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/TypeScript-3073C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Styled Components-20232A?style=for-the-badge&logo=styled-components&logoColor=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Tailwind CSS-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Mobx-F7DF1E?style=for-the-badge&logo=mobx&logoColor=black" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/redux-3073C0?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/recoil-1572B6?&style=for-the-badge&logo=recoil&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/swr%20-%23cc6699.svg?&style=for-the-badge&logo=swr&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  
 </div>
