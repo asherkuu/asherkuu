@@ -3,9 +3,9 @@
 
  <samp>Software Engineer | Front-End Developer</samp>
  
- <h4>🔭  I’m currently working with ...</h4>
+ <h4>🧐  I’m currently working with ...</h4>
 
-<h5>UI Developer</h5>
+<h5>Front-End Developer</h5>
 <p>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAFB" />&nbsp;&nbsp;
