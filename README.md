@@ -1,5 +1,5 @@
 <div align='center'>
-**Asher Kim (김선규)**
+Asher Kim
 
 Software Enginer | Front-End Developer
 </div>
