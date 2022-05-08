@@ -10,7 +10,7 @@
  
  <hr>
  
- <h4>🧐  I’m currently working with ...</h4>
+ <h4>🧐  I’m currently working with ...</h4><br/>
 
  <p>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
@@ -34,7 +34,7 @@
  
  <hr/>
  
- <h4>Stats</h4>
+ <h4>Stats</h4><br/>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asherkuu&show_icons=true&theme=radical)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)]()
  
