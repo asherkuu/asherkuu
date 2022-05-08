@@ -33,9 +33,7 @@
    <img src="https://img.shields.io/badge/swr%20-%23cc6699.svg?&style=for-the-badge&logo=swc&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)]()
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asherkuu&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)]()![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asherkuu&show_icons=true&theme=radical)
  
 </div>
 
