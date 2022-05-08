@@ -7,15 +7,20 @@
  
  <h4>🧐  I’m currently working with ...</h4>
 
-<h5>Front-End Developer</h5>
- <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=Next.js&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3073C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
- </p>
+  <p>
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=Next.js&logoColor=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/TypeScript-3073C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+ 
+ <hr/>
+ 
+ <h4>More Skills</h4>
+ 
+ 
 </div>
 
 <hr>
