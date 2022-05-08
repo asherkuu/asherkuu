@@ -2,7 +2,7 @@
  <h3><samp><strong>Asher Kim</strong> 👋 </samp></h3>
 
  <samp>Software Engineer | Front-End Developer</samp>
- <samp>I live on Seoul, South of Korea.</samp>
+ <samp>I live on Seoul, South of Korea.</samp><br/>
  <samp>+82 10-3948-2031 | kyuseon39@gmail.com</samp>
  
  <hr>
