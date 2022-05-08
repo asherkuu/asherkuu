@@ -20,9 +20,6 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
- 
- <h4>And More Skills ...</h4>
-
  <p>
   
    <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=Amazon AWS&logoColor=61DAFB" />&nbsp;&nbsp;
