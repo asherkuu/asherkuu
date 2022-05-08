@@ -1,7 +1,7 @@
 <div align='center'>
  <h3><samp><strong>Asher Kim</strong> 👋 </samp></h3>
 
- <samp>Software Enginer | Front-End Developer</samp>
+ <samp>Software Engineer | Front-End Developer</samp>
 </div>
 
 <!--
