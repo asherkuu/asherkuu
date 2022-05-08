@@ -20,7 +20,7 @@
  
  <h4>More Skills</h4>
  <p>
-   <img src="https://img.shields.io/badge/Styled Components-20232A?style=for-the-badge&logo=styled-components&logoColor=DB7093" />&nbsp;&nbsp; 
+   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp; 
  </p>
  
 </div>
