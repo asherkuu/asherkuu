@@ -3,6 +3,8 @@
 
  <samp>Software Engineer | Front-End Developer</samp>
  
+ <hr>
+ 
  <h4>🧐  I’m currently working with ...</h4>
 
 <h5>Front-End Developer</h5>
