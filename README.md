@@ -6,6 +6,7 @@
  <samp>+82) 1039482031 | kyuseon39@gmail.com</samp><br/>
  <samp>I live on Seoul, South of Korea.</samp>
  
+ <a href="https://velog.io/@ashekruu"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
  
  <hr>
  
@@ -33,14 +34,8 @@
    <img src="https://img.shields.io/badge/swr%20-%23cc6699.svg?&style=for-the-badge&logo=swc&logoColor=white" />&nbsp;&nbsp;
  </p>
  
+ <hr/>
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asherkuu&show_icons=true&theme=radical)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)]()
  
 </div>
-
-<hr>
-
-<a href="https://velog.io/@ashekruu"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-
-
