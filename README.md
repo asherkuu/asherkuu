@@ -22,11 +22,13 @@
  <h4>More Skills ...</h4>
 
  <p>
+  
+   <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=Amazon AWS&logoColor=61DAFB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Styled Components-20232A?style=for-the-badge&logo=styled-components&logoColor=61DAFB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Tailwind CSS-20232A?style=for-the-badge&logo=Tailwind CSS&logoColor=61DAFB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Mobx-F7DF1E?style=for-the-badge&logo=mobx&logoColor=black" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/redux-3073C0?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/recoil-1572B6?&style=for-the-badge&logo=recoil&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/recoil-1572B6?&style=for-the-badge&logo=React&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/swr%20-%23cc6699.svg?&style=for-the-badge&logo=swc&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  
