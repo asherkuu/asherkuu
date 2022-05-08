@@ -3,6 +3,7 @@
 
  <samp>Software Engineer | Front-End Developer</samp>
  <samp>I live on Seoul, South of Korea.</samp>
+ <samp>+82 10-3948-2031 | kyuseon39@gmail.com</samp>
  
  <hr>
  
