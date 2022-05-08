@@ -42,3 +42,5 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)]()
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asherkuu&show_icons=true&theme=radical)
