@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)](https://github.com/asherkuu/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)]()
