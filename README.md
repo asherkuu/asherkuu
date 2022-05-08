@@ -20,8 +20,8 @@
 
  </p>
  <p>
-   <img src="https://img.shields.io/badge/Mobx-F7DF1E?style=for-the-badge&logo=mobx&logoColor=black" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/redux-3073C0?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/recoil-1572B6?&style=for-the-badge&logo=React&logoColor=white" />&nbsp;&nbsp;
 
    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
