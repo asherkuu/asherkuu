@@ -1,5 +1,5 @@
 <div align='center'>
-Asher Kim
+ <h3><samp><strong>Asher Kim</strong> 👋 </samp></h3>
 
 Software Enginer | Front-End Developer
 </div>
