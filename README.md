@@ -20,9 +20,7 @@
    <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  
- <hr/>
- 
- <h4>More Skills ...</h4>
+ <h4>And More Skills ...</h4>
 
  <p>
   
