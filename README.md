@@ -1,10 +1,10 @@
 <div align='center'>
  <h3><samp><strong>Asher Kim</strong> 👋 </samp></h3>
 
- <samp>Software Engineer | Front-End Developer</samp>
- <samp>I live on Seoul, South of Korea.</samp><br/>
+ <samp>Software Engineer | Front-End Developer</samp><br/>
  
- <samp>+82) 1039482031 | kyuseon39@gmail.com</samp>
+ <samp>+82) 1039482031 | kyuseon39@gmail.com</samp><br/>
+ <samp>I live on Seoul, South of Korea.</samp>
  
  <hr>
  
