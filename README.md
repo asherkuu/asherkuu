@@ -35,12 +35,9 @@
    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" />&nbsp;&nbsp;
  </p>
  
- <hr/>
+<!-- <hr/> -->
  
- <h4>👾 Git Stats</h4><br/>
- 
- 
- 
-</div>
+<!-- <h4>👾 Git Stats</h4><br/> -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asherkuu&layout=compact)]() -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asherkuu&show_icons=true&theme=radical)&nbsp;&nbsp; -->
+</div>
