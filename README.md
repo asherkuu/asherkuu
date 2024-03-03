@@ -31,7 +31,7 @@
    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" /><br/><br/>
  </p>
 
- <h4>🧐  I’m currently working with ...</h4><br/>
+ <h4>previously working with ...</h4><br/>
  <p>
    <img alt="MobX" src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=white" />&nbsp;&nbsp;
    <img alt="Redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
