@@ -37,7 +37,7 @@
  <h4>😏  I have experiences with ...</h4><br/>
  <p>
    <img alt="MobX" src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=white" />&nbsp;&nbsp;
-   <img alt="Redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
+   <img alt="Redux" src="https://img.shields.io/badge/Redux Thunk & Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
  </p>
 
  
