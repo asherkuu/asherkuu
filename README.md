@@ -35,7 +35,7 @@
 
 <p>
    <img alt="Express js" src="https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=FFF" /> &nbsp;&nbsp;
- <img alt="Maria DB" src="https://img.shields.io/badge/maria db-000?style=for-the-badge&logo=maria-db&logoColor=FFF" /> &nbsp;&nbsp;
+ <img alt="Maria DB" src="https://img.shields.io/badge/Maria db-000?style=for-the-badge&logo=MariaDb&logoColor=FFF" /> &nbsp;&nbsp;
 </p>
 
  <h4>😏  I have experiences with ...</h4><br/>
