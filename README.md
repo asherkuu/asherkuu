@@ -26,9 +26,7 @@
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
    <img alt="SASS" src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
    <img alt="Mui" src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=FFF" />&nbsp;&nbsp;
-  
    <img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
-   <img alt="Mui" src="https://img.shields.io/badge/mui-#007FFF?style=for-the-badge&logo=Material UI&logoColor=white" />&nbsp;&nbsp;
  
    <!-- <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />&nbsp;&nbsp; -->
   
