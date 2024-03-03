@@ -6,10 +6,10 @@
  <samp>+82) 1039482031 | asherkim39@gmail.com</samp><br/>
  <samp>I live on Seoul, South of Korea.</samp>
  
- <a href="https://velog.io/@ashekruu"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>&nbsp;&nbsp;
- <a href="https://medium.com/@kyuseon39"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=white"/></a>&nbsp;&nbsp;
- <a href="https://codesandbox.io/u/kyuseon39"><img src="https://img.shields.io/badge/CodeSendBox-000000?style=flat&logo=CodeSandbox&logoColor=white"/></a>&nbsp;&nbsp;
- <a href="https://instagram.com/_8sher"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
+ <!-- <a href="https://velog.io/@ashekruu"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>&nbsp;&nbsp; -->
+ <!-- <a href="https://medium.com/@kyuseon39"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=white"/></a>&nbsp;&nbsp; -->
+ <!-- <a href="https://codesandbox.io/u/kyuseon39"><img src="https://img.shields.io/badge/CodeSendBox-000000?style=flat&logo=CodeSandbox&logoColor=white"/></a>&nbsp;&nbsp; -->
+ <!-- <a href="https://instagram.com/_8sher"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp; -->
  
  <hr>
  
