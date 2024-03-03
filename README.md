@@ -1,9 +1,7 @@
 <div align='center'>
  <h3><samp><strong>Asher Kim</strong> 👋 </samp></h3>
 
- <samp>Software Engineer | Front-End Developer</samp><br/>
- <samp>full stack depending on.</samp>
- <br/>
+ <samp>Front-End Developer | full stack depending on.</samp><br/>
  <br/>
  <samp>e-mail: asherkim39@gmail.com</samp><br/>
  <samp>I live in Seoul, South of Korea.</samp>
