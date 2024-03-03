@@ -35,7 +35,7 @@
 
 <p>
    <img alt="Express js" src="https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=FFF" /> &nbsp;&nbsp;
- <img alt="Maria DB" src="https://img.shields.io/badge/Maria db-000?style=for-the-badge&logo=MariaDb&logoColor=FFF" /> &nbsp;&nbsp;
+   <img alt="Maria DB" src="https://img.shields.io/badge/Mariadb-000?style=for-the-badge&logo=MariaDb&logoColor=FFF" /> &nbsp;&nbsp;
 </p>
 
  <h4>😏  I have experiences with ...</h4><br/>
@@ -44,7 +44,7 @@
    <img alt="Redux" src="https://img.shields.io/badge/Redux Thunk & Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" /><br/><br/>
    <img alt="MySql" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" /><br/><br/>
-   <img alt="MySql" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" /><br/><br/>
+   <img alt="MySql" src="https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=Mysql&logoColor=white" /><br/><br/>
  </p>
 
  
