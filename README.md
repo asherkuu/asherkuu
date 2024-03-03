@@ -23,10 +23,6 @@
    <img alt="Typescript" src="https://img.shields.io/badge/TS-3073C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
    <img alt="React-query" src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />&nbsp;&nbsp;
  </p>
-<p>
-   <img alt="Express js" src="https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=FFF" /> &nbsp;&nbsp;
- 
-</p>
  
  <p>
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -36,6 +32,11 @@
  
    <!-- <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />&nbsp;&nbsp; -->
  </p>
+
+<p>
+   <img alt="Express js" src="https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=FFF" /> &nbsp;&nbsp;
+ <img alt="Maria DB" src="https://img.shields.io/badge/maria db-000?style=for-the-badge&logo=maria-db&logoColor=FFF" /> &nbsp;&nbsp;
+</p>
 
  <h4>😏  I have experiences with ...</h4><br/>
  <p>
