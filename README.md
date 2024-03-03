@@ -23,6 +23,11 @@
    <img alt="Typescript" src="https://img.shields.io/badge/TS-3073C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
    <img alt="React-query" src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />&nbsp;&nbsp;
  </p>
+<p>
+   <img alt="Express js" src="https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=FFF" /> &nbsp;&nbsp;
+ 
+</p>
+ 
  <p>
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
    <img alt="SASS" src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
@@ -30,14 +35,15 @@
    <img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
  
    <!-- <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />&nbsp;&nbsp; -->
-  
-   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" /><br/><br/>
  </p>
 
  <h4>😏  I have experiences with ...</h4><br/>
  <p>
    <img alt="MobX" src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=white" />&nbsp;&nbsp;
    <img alt="Redux" src="https://img.shields.io/badge/Redux Thunk & Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" /><br/><br/>
+   <img alt="MySql" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" /><br/><br/>
+   <img alt="MySql" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" /><br/><br/>
  </p>
 
  
