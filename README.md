@@ -21,6 +21,7 @@
    <img alt="Nextjs" src="https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=Next.js&logoColor=61DAFB" />&nbsp;&nbsp;
    <img alt="Javascript" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
    <img alt="Typescript" src="https://img.shields.io/badge/TS-3073C0?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+   <img alt="React-query" src="https://img.shields.io/badge/React Query-DB7093?style=for-the-badge&logo=react-query&logoColor=white" />&nbsp;&nbsp;
  </p>
  <p>
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
