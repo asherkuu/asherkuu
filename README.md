@@ -1,7 +1,7 @@
 <div align='center'>
  <h3><samp><strong>Asher Kim</strong> 👋 </samp></h3>
 
- <samp>Front-End Developer | full stack depending on.</samp><br/>
+ <samp>Front-End Developer | full stack with node.js depending on.</samp><br/>
  <br/>
  <samp>e-mail: asherkim39@gmail.com</samp><br/>
  <samp>I live in Seoul, South of Korea.</samp>
@@ -27,7 +27,8 @@
  <p>
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
    <img alt="SASS" src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
-   <img alt="Mui" src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=FFF" />&nbsp;&nbsp;
+   <img alt="Mui" src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=FFF" />&nbsp;&nbsp;  
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />&nbsp;&nbsp;
    <img alt="Styled Components" src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
  
    <!-- <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />&nbsp;&nbsp; -->
