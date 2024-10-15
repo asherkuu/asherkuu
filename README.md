@@ -44,7 +44,7 @@
  <h4>😏  I have experiences with ...</h4><br/>
  <p>
   
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
    <img alt="K8S" src="https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
   <img alt="MobX" src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=white" />&nbsp;&nbsp;
    <img alt="Redux" src="https://img.shields.io/badge/Redux Thunk & Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
